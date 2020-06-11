@@ -1,6 +1,8 @@
 import unittest
 import katas
 
+# jodi08 aka Jo Anna Mollman with help from Daniel *the amazing* Lomolino(sp?)
+
 
 class TestKatas(unittest.TestCase):
     def test_add(self):
